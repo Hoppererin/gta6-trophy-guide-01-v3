@@ -1,8 +1,8 @@
 # Leonida Platinum — GTA VI Trophy Guide & Tracker
 
-[![Rank](https://make.fun/badge/gta6-trophy-guide-01/Hoppererin/gta6-trophy-guide-01-v3/rank.svg)](https://make.fun/c/gta6-trophy-guide-01)
-[![Reward](https://make.fun/badge/gta6-trophy-guide-01/Hoppererin/gta6-trophy-guide-01-v3/reward.svg)](https://make.fun/c/gta6-trophy-guide-01)
-[![GTA 6 Trophy Guide](https://make.fun/badge/gta6-trophy-guide-01/rank.svg)](https://make.fun/c/gta6-trophy-guide-01)
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/Hoppererin/gta6-trophy-guide-01-v3/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/Hoppererin/gta6-trophy-guide-01-v3/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 
 The complete offline guide and tracker for all **55 PlayStation 5 trophies** of Grand Theft Auto VI — every trophy with its official name, description and grade, a step-by-step guide in our own words, and the sources behind every fact.
 
