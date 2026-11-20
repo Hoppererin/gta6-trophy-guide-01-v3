@@ -63,3 +63,4 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 Fan-made guide. Not affiliated with, endorsed by, or connected to Rockstar Games, Take-Two Interactive, or PlayStation. Grand Theft Auto and GTA are trademarks of Take-Two Interactive. No Rockstar logo, artwork, box art or game screenshot is used anywhere in this guide.
 
 Entered on [make.fun](https://make.fun/r/dhj53q2r).
+<!-- witness: final README content confirmed 2026-11-20 -->
